@@ -18,7 +18,7 @@ const services: Service[] = [
   {
     id: 'content',
     title: 'Content Writing',
-    description: 'Words that hit. Aesthetic, SEO-loaded, and branded to perfection so your audience reads it and goes, “yeah this is so them.',
+    description: 'Words that hit. Aesthetic, SEO-loaded, and branded to perfection—so your audience reads it and goes, “yeah this is so them.”',
     icon: PenLine,
   },
   {
@@ -30,7 +30,7 @@ const services: Service[] = [
   {
     id: 'website',
     title: 'Portfolio Website',
-    description: 'Sleek, bougie, React-powered portfolios that make your work look like it belongs in a designer showroom.',
+    description: 'Sleek, bougie, React powered portfolios that make your work look like it belongs in a designer showroom.',
     icon: Globe,
   },
 ];
