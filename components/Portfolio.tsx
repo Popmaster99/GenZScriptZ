@@ -13,8 +13,8 @@ const Portfolio: React.FC = () => {
     { id: 1, title: 'Tech Review Script', category: 'Video Script', img: work1 },
     { id: 2, title: 'Travel Vlog Reels', category: 'Reels Strategy', img: work2 },
     { id: 3, title: 'Executive Resume', category: 'Resume Design', img: work3 },
-    { id: 4, title: 'Fashion Blog', category: 'Content Writing', img: work4 },
-    { id: 5, title: 'Artist Portfolio', category: 'Web Development', img: work5 },
+    { id: 4, title: 'Any Content', category: 'Content Writing', img: work4 },
+    { id: 5, title: 'Portfolio', category: 'Web Development', img: work5 },
     { id: 6, title: 'Product Launch', category: 'Campaign Idea', img: work6 },
   ];
 
