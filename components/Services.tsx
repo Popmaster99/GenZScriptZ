@@ -6,31 +6,31 @@ const services: Service[] = [
   {
     id: 'scripts',
     title: 'Video Scripts',
-    description: 'Engaging, retention-focused scripts tailored for YouTube and long-form content. We hook the audience in the first 3 seconds.',
+    description: 'Scripts so sticky your audience won’t blink. We hook ‘em in the first 3 seconds and keep them locked in like it’s their new comfort creator.',
     icon: ScrollText,
   },
   {
     id: 'reels',
     title: 'Reels Ideas',
-    description: 'Viral concepts for TikTok, Reels, and Shorts. Trend analysis and creative direction to skyrocket your reach.',
+    description: 'Viral level ideas built different. Trend-hacked, scroll stopping, and crafted to shove your content straight onto the FYP throne.',
     icon: Video,
   },
   {
     id: 'content',
     title: 'Content Writing',
-    description: 'Blogs, articles, and captions that paint a picture. SEO-optimized and written with your brand\'s unique voice.',
+    description: 'Words that hit. Aesthetic, SEO-loaded, and branded to perfection so your audience reads it and goes, “yeah this is so them.',
     icon: PenLine,
   },
   {
     id: 'resume',
     title: 'Resume Making',
-    description: 'ATS-friendly, professionally designed resumes that stand out like a sunflower in a field of grass.',
+    description: 'Resumes that stand out harder than a sunflower in a grayscale world. Clean, modern, recruiter approved, and impossible to ignore.',
     icon: FileText,
   },
   {
     id: 'website',
     title: 'Portfolio Website',
-    description: 'Custom React-based portfolio websites to showcase your work effectively and aesthetically.',
+    description: 'Sleek, bougie, React-powered portfolios that make your work look like it belongs in a designer showroom.',
     icon: Globe,
   },
 ];
