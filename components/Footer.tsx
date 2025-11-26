@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500 font-sans">
-          <p>&copy; {new Date().getFullYear()} GenZScriptZ. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} GenZScriptZ. All rights reserved. Skrrrr!!</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <button onClick={scrollToTop} className="flex items-center gap-2 hover:text-vangogh-yellow transition-colors">
               Back to Top <ArrowUp size={14} />
