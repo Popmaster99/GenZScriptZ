@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
         </h1>
 
         <p className="font-serif text-lg md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed border-l-4 border-vangogh-yellow pl-6 text-left bg-black/30 p-4 rounded-r-lg backdrop-blur-sm">
-          Crafting viral video scripts, resume artistry, and digital portfolios with the passion of a post-impressionist.
+          Crafting viral scripts, flex worthy resumes, and aesthetic digital portfolios with the same energy a post impressionist brings to a masterpiece.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
