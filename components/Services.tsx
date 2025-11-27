@@ -18,7 +18,7 @@ const services: Service[] = [
   {
     id: 'content',
     title: 'Content Writing',
-    description: 'Words that hit. Aesthetic, SEO-loaded, and branded to perfection—so your audience reads it and goes, “yeah this is so them.”',
+    description: 'Words that hit. Aesthetic, SEO loaded, and branded to perfection so your audience reads it and goes, “yeah this is so them.”',
     icon: PenLine,
   },
   {
