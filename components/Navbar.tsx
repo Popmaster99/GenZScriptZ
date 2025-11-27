@@ -18,6 +18,12 @@ const Navbar: React.FC = () => {
     { name: 'Services', href: '#services' },
     { name: 'Work', href: '#portfolio' },
     { name: 'Contact', href: '#contact' },
+    {
+      name: 'Pricing',
+      href: 'https://erratic-tower-44d.notion.site/Pricing-e58a7fc7d93c4b6db5c6db7cc22718ce?pvs=74',
+      target: '_blank',
+      rel: 'noopener noreferrer'
+    },
   ];
 
   return (
